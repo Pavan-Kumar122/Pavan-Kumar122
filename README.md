@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pavan-kumar122&label=Profile%20views&color=0e75b6&style=flat" alt="pavan-kumar122" /> </p>
 
-- 🔭 I’m currently working on **Online Proctoring Portal**
+- 🔭 I’m a Developer at **TCS**
 
-- 🌱 I’m currently learning **React, Reddis**
+- 🌱 I’m currently learning **C#, .NET**
 
 - 👯 I’m looking to collaborate on **Backend Dev.**
 
-- 💬 Ask me about **Flask**
+- 💬 Ask me about **KOFAX, Gitlab**
 
 - 📫 How to reach me **bpavan122@gmail.com**
 
