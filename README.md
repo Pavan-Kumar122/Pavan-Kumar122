@@ -5,11 +5,11 @@
 
 - 🔭 I’m a Developer at **TCS**
 
-- 🌱 I’m currently learning **C#, .NET**
+- 🌱 I’m currently working on **Java, Spring Boot/MVC, Git/Gitlab**
 
 - 👯 I’m looking to collaborate on **Backend Dev.**
 
-- 💬 Ask me about **KOFAX, Gitlab**
+- 💬 Ask me about **Spring, Gitlab**
 
 - 📫 How to reach me **bpavan122@gmail.com**
 
